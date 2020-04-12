@@ -1,0 +1,11 @@
+{
+  "name": "wowlogparser",
+  "version": "1.0.0",
+  "description": "WoWLogParser",
+  "main": "app.js",
+  "author": "msdigital.ch",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
