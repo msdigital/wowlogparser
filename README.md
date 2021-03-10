@@ -23,4 +23,4 @@ Standalone NodeJS Project, so no Installation needed.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under GNU Lesser General Public License version 3 (GNU LGPLv3) - see the [LICENSE.md](LICENSE.md) file for details
